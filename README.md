@@ -1,2 +1,0 @@
-# snc_25125319_transformer_midtermhomework
-BJTU_transformer_midtermhomework
