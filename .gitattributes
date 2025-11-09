@@ -7,3 +7,5 @@
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
+results/** filter=lfs diff=lfs merge=lfs -text
+results/.gitkeep -filter -diff -merge text
