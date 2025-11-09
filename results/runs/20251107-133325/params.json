@@ -1,0 +1,23 @@
+{
+  "data": "files/en2fr.csv",
+  "epochs": 0,
+  "batch_size": 128,
+  "d_model": 128,
+  "d_ff": 512,
+  "heads": 8,
+  "layers": 2,
+  "dropout": 0.1,
+  "save_dir": "files",
+  "model_path": "files/model.pt",
+  "translate": "How are you?",
+  "run_name": null,
+  "enc_layers": null,
+  "dec_layers": null,
+  "no_posenc": false,
+  "no_crossattn": false,
+  "smoothing": 0.1,
+  "beam": 1,
+  "alpha": 0.6,
+  "no_repeat_ngram": 3,
+  "max_len": 64
+}

@@ -1,0 +1,25 @@
+=== Example 19 ===
+EN : Tom is looking for someone to take Mary's place.
+REF: Tom cherche quelqu'un pour remplacer Mary.
+PRED[base_eval200_b3]: Tom cherche de Mary.
+
+=== Example 41 ===
+EN : "Yes, I have a good idea."
+REF: "Oui, j'ai une bonne idée."
+PRED[base_eval200_b3]: J'ai un bon bureau.
+
+=== Example 51 ===
+EN : There are three dogs racing around a muddy track.
+REF: Il y a trois chiens en course sur une piste boueuse.
+PRED[base_eval200_b3]: Il y a trois chiens en course sur une piste.
+
+=== Example 134 ===
+EN : A laughing woman holds a pink star shaped lamp towards the head of a shadowed person in the foreground.
+REF: Une femme rireuse tient une lampe en forme d'étoile rose vers la tête d'une personne en ombre au premier plan.
+PRED[base_eval200_b3]: Une femme en forme sourit alors qu'une personne est assise dans un fauteuil de la tête en forme du premier plan.
+
+=== Example 157 ===
+EN : Is it OK if I go out with Tom?
+REF: Est-il opportun de sortir avec Tom?
+PRED[base_eval200_b3]: Est-ce que je me rends avec Tom?
+
