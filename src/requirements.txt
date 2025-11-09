@@ -1,0 +1,6 @@
+# 建议用 conda 安装 PyTorch；此处仅列出其余依赖
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.7
+sacrebleu>=2.4
+tqdm>=4.66
